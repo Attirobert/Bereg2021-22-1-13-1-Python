@@ -1,0 +1,29 @@
+1. Írj egy programot, amely 1000-szer kiírja a Szeretjük a Python teknőcöket! mondatot!
+2. Add meg három attribútumát a mobiltelefon objektumodnak! Add meg a mobilod három metódusát!
+3. Írj egy programot, ami a for ciklus használatával az alábbi szöveget írja ki
+Az év 1. hónapja január.
+Az év 2. hónapja február.
+. . .
+
+4. Tételezzük fel, hogy a teknőcünk Eszti a 0 irányban áll – kelet felé néz. Végrehajtjuk az Eszti.left(3645) utasítást. Mit csinál Eszti és merre néz?
+
+5. Tételezzük fel, hogy van egy xs = [12, 10, 32, 3, 66, 17, 42, 99, 20] értékadásunk.
+(a) Írj egy ciklust, amely mindegyik számot kiírja egy új sorba!
+(b) Írj egy ciklust, amely mindegyik számot és azok négyzetét is kiírja egy új sorba!
+(c) Írj egy ciklust, amely összeadja a listában szereplő összes számot egy összeg változóba! Az összeg változónak 0 értéket kell adnod az összegzés előtt, majd a ciklus befejezése után az összeg változó értékét írasd ki!
+(d) Írasd ki a listában szereplő összes szám szorzatát!
+
+6. Használd a for ciklust, hogy egy teknőccel kirajzoltasd ezeket a szabályos sokszögeket (a szabályos azt jelenti, hogy minden oldala egyforma hosszú és minden szöge azonos):
+    • Egyenlo oldalú háromszög ˝
+    • Négyzet
+    • Hexagon (hatszög)
+    • Oktagon (nyolcszög)
+
+7. Egy részeg kalóz véletlenszerűen fordul egyet majd megy 100 lépést, tesz még egy véletlen fordulatot és még 100 lépést, és így tovább. Egy bölcsész hallgató feljegyzi az összes fordulat szögét mielott a kalóz megtenné a következo 100 lépést. Az ő kísérletének adatai  [160, -43, 270, -97, -43, 200, -940, 17, -86]. (A pozitív szögek az óra járásával ellentétes irányúak.) Használj egy teknőcöt, hogy kirajzold részeg barátunk útvonalát!
+
+8. Fejleszd a programod, hogy a végén azt is megmondja, milyen irányba néz a pityókás kalóz a botorkálása végén!
+(Tételezzük fel, hogy a 0 irányból indul.)
+
+9. Ha egy szabályos 18 oldalú sokszöget szeretnél rajzolni, hány fokkal kellene elfordulnia a teknocnek minden csúcsnál?
+
+10. Hozz létre egy teknőcöt és add értékül egy változónak! Írasd ki a típusát!
