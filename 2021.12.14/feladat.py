@@ -21,15 +21,15 @@ def honap_napja(honap):
 #és kiszámolja hány másodpercnek felelnek meg összesen.
 
 
-"""16. Készíts egy tenyezo_e(t, n) fejléc ˝u függvényt, amely átmegy az alábbi teszteken. 
-(Ne csak a prímtényezokre adjon vissza igazat a függvényed"""
+"""16. Készíts egy tenyezo_e(t, n) fejlécű függvényt, amely átmegy az alábbi teszteken. 
+(Ne csak a prímtényezőkre adjon vissza igazat a függvényed"""
 
 def tenyezo_e(t, n):
     if n % t == 0:
         return True
     return False
 
-# 17. Írj egy tobbszorose_e fejléc ˝u függvényt, mely kielégíti az alábbi egységtesztet
+# 17. Írj egy tobbszorose_e fejlécű függvényt, mely kielégíti az alábbi egységtesztet
 
 def tobbszorose_e(t, n):
     return tenyezo_e(n, t)
@@ -37,7 +37,7 @@ def tobbszorose_e(t, n):
 #rj egy celsiusra_valtas(f) függvényt, mely egy Fahrenheitben megadott értéket Celsius fokra vált át.
 #A függvény a legközelebbi egész értéket adja vissza. (Segítség: Ha a beépített round függvényt szeretnéd
 #használni, próbáld kiíratni a round.__doc__ -et a Python konzolban, vagy a függvény nevén állva nyomd le
-#a Ctrl+Q billenty ˝ukombinációt. Kísérletezz, ameddig rá nem jössz, hogyan m ˝uködik. ):
+#a Ctrl+Q billentyű kombinációt. Kísérletezz, ameddig rá nem jössz, hogyan működik. ):
 def celsiusra_valtas(f):
     return round(5 / 9 * (f - 32))
 
