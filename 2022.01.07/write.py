@@ -1,0 +1,5 @@
+sajat_fajl = open("elso.txt", "w")
+sajat_fajl.write("Az els˝o Python fájlom!\n")
+sajat_fajl.write("----------------------\n")
+sajat_fajl.write("Helló, világ!\n")
+sajat_fajl.close()
