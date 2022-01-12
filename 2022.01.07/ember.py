@@ -1,8 +1,8 @@
 class Ember:
-    def __init__(self, nev = "Anonimus", szem = "zöld", haj = "barna"):
-        self.nev = nev
-        self.szem = szem
-        self.haj = haj
+    def __init__(self, p1 = "Anonimus", p2 = "zöld", p3 = "barna"):
+        self.nev = p1
+        self.szem = p2
+        self.haj = p3
 
     def setHaj(self, haj):
         self.haj = haj
