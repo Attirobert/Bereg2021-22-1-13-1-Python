@@ -1,0 +1,1 @@
+print("Öreg") if False else print("fiatal")
